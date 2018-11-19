@@ -10,7 +10,7 @@ client.on('ready', async() => {
 var server = "511942218479566859"; // ايدي السررفر
 var channel = "511942218945396767";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**1 , 2 , 3 , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , **')
+    client.guilds.get(server).channels.get(channel).send('**gfdfgdg , fgdfjfgdjdj , 3 , hjghjgjhg , yttyty , 34453456 , Dream , Dream , Dream , jgdffdfjdfam , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , **')
     },305);
 })
 
@@ -31,4 +31,4 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
  });
 
  
-client.login("NTAyNDgxNTA2ODA4MjMzOTg3.DsyZeQ.tsoXM5Kbr1S3R3kRkLyo1fxUNl0");
+client.login("NTAxNDAxMTE3MDA4MDY4NjI4.DtR1-A.lLmC0mtRuPTbz-G5fSFg4G7RF-8");
